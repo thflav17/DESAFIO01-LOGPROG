@@ -21,7 +21,7 @@
     } else if(Jogador.NvExperience >= 10001){
         console.log("Radiante")
     }
-    
-    console.log("O Jogador de nome " + Jogador.nome + "está no nível de " + Jogador.NvExperience);
+
+    console.log("O Jogador de nome " + Jogador.nome + " está no nível de " + Jogador.NvExperience);
 
 
